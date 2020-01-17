@@ -68,8 +68,8 @@ body {
 	background-color: #c8232c;
 }
 .fa-google-plus{
-	padding-left: 6.5px;
-	padding-top: 8px;
+	padding-left: 9.5px;
+    padding-top: 9px;
 }
 .fa-google-plus:before {
 	color: white;
@@ -524,4 +524,21 @@ footer{
 	bottom: 0;
 	height: 60px;
 	background-color: #ebebeb;
+}
+
+.textslide {
+    position: absolute;
+    width: 400px;
+    bottom: 25px;
+    right:30px;
+}
+.textslide1 {
+    font-size: 34px;
+    font-family: Georgia;
+    
+}
+.textslide2 {
+    font-size: 15px;
+    font-family: Georgia;
+    
 }
